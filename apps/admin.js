@@ -14,7 +14,7 @@ export class admin extends plugin {
       priority: 99,
       rule: [
         {
-          reg: '^[#/]*(github)?(原神|星铁|绝区零)?图鉴(强行)?(强制)?升级$',
+          reg: '^[#/]*(github)?(原神|星铁|绝区零|洛克|rc)?图鉴(强行)?(强制)?升级$',
           fnc: 'update'
         }, 
         {

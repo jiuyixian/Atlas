@@ -1,6 +1,6 @@
 
 // 多图鉴兼容模块
-const list = ['github原神', 'github星铁','github绝区零', '原神', '星铁','绝区零',]
+const list = ['github原神', 'github星铁','github绝区零', '原神', '星铁','绝区零', '洛克', 'rc',]
 
 const library = {
   原神: 'Genshin-Atlas',
@@ -9,6 +9,8 @@ const library = {
   github星铁: 'star-rail-atlas',
   绝区零: 'zzz-atlas',
   github绝区零: 'zzz-atlas',
+  洛克: 'Rocom-Atlas',
+  rc: 'Rocom-Atlas',
 }
 
 const link = {
@@ -18,6 +20,8 @@ const link = {
   github原神: 'https://github.com/Nwflower/genshin-atlas',
   github星铁: 'https://github.com/Nwflower/star-rail-atlas',
   github绝区零: 'https://github.com/Nwflower/zzz-atlas',
+  洛克: 'https://github.com/Entropy-Increase-Team/Rocom-Atlas',
+  rc: 'https://github.com/Entropy-Increase-Team/Rocom-Atlas',
 }
 
 export {
